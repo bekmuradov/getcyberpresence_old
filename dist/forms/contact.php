@@ -26,8 +26,8 @@
   
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
-    'username' => 'getcyberpresence@gmail.com',
-    'password' => 'V4kZSBVAR745zdW',
+    'username' => '',
+    'password' => '',
     'port' => '587'
   );
 
