@@ -805,6 +805,11 @@ section {
   border-color: #106eea;
 }
 
+.align-items-stretch {
+   -ms-flex-align: stretch!important;
+   align-items: stretch!important;
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
