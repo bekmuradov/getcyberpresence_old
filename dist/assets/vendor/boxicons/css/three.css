@@ -330,3 +330,11 @@
     content: "\ec4d"
 }
 
+.bx-menu:before {
+    content: "\eb2a";
+}
+
+.bx-x:before {
+    content: "\ec4e";
+}
+
